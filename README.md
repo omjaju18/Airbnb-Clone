@@ -2,6 +2,8 @@
 
 ### [ Live Site ](https://airbnbclone-oj.netlify.app/)
 
+![airBnb Clone](https://ibb.co/9y6cM63)
+
 - Developed a fully responsive Airbnb clone using HTML and CSS, replicating the official website's design and layout across multiple pages. 🏠🌐
  
 - Utilized advanced CSS concepts, such as Flexbox, Grid layout, and Media Queries, to create a seamless and dynamic user experience on various devices and screen sizes. 🎨💻📱
